@@ -15,3 +15,7 @@ Steps
   5.Make plots of histogram,boxplot,scatterplot to help understand the relationship in the columns.
   
   6. Find the percentage of missing values on each column.
+
+  7. Split the data, drop the entire column with the exception of column for prediction .
+
+  8.
