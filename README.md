@@ -9,3 +9,5 @@ Steps
 2. Load the cal_housing.csv dataset into jupyter notebook.
 
 3. Find information about the dataset using df.info().
+
+4.Determine the unique value and value counts for all fields in the dataset.
